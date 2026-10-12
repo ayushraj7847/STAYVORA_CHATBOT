@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langgraph
+google-genai
+httpx
+pydantic
+twilio
+python-multipart
